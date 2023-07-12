@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-Paste
+- 👋 Hi, I’m @Code-Paste aka Sami
 - 
 - 👀 I’m interested in programming , making and scripting games, and making animations
 - 
