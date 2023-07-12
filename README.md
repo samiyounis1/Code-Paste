@@ -2,9 +2,10 @@
 - 
 - 👀 I’m interested in programming , making and scripting games, and making animations
 - 
-- 🌱 I’m currently learning HTML and want to learn js and python
+- 🌱 I’m currently learning HTML and im getting really good at it but want to learn js and python too.
   
 - 📫 (How to reach me) discord: samiakhi#1013
+
 
 - also sub to 
 Servet Gulnaroglu
