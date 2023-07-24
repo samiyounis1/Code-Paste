@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently learning HTML and im getting really good at it but want to learn js and python too.
   
-- 📫 (How to reach me) discord: samiakhi#1013
+- 📫 (How to reach me) discord: som5umi#1013
 
 
 - also sub to 
